@@ -1,0 +1,2 @@
+# TypyGeneryczne
+Przykłady generyczności
